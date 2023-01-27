@@ -1,0 +1,25 @@
+#logPage {
+    width: 400px;
+    background-color: rgb(238, 136, 180);
+    margin: auto;
+    margin-top: 150px;
+    height: 350px;
+    text-align: center;
+  }
+
+  #logPage>form>a {
+    text-decoration: none;
+    color: blue;
+  }
+
+  .tag {
+    background-color: rgb(64, 219, 64);
+    color: white;
+    height: 35px;
+    width: 90px;
+    border: none;
+
+  }
+  h1{
+    color:blueviolet;
+  }

@@ -1,0 +1,49 @@
+#row1 {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+#row1>img {
+    width: 100px;
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#row1>div>a {
+    text-decoration: none;
+    width: 100%;
+    margin-left: 30px;
+    color: black;
+}
+
+#mainImg>img {
+    width: 100%;
+    margin-top: 20px;
+    height: 300px;
+}
+
+#row2 {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    height: 300px;
+}
+
+#row2>img {
+    height: 200px;
+    width: 18%;
+    margin-top: 30px;
+}
+
+#class>button {
+    height: 30px;
+    width: 90px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}

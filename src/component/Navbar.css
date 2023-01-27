@@ -1,0 +1,77 @@
+#navbar {
+    display: flex;
+    width: 100%;
+    height: 60px;
+    background-color: #2874f0;
+  }
+
+  #navbar>h2 {
+    font-style: italic;
+    color: white;
+    margin-left: 160px;
+  }
+
+  #navbar>input {
+    width: 420px;
+    font-weight: 900;
+    font-size: medium;
+    background-color: white;
+    text-align: left;
+    height: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid rgb(206, 200, 200);
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+
+  #navbar>button {
+    background-color: white;
+    color: #2874f0;
+    font-size: medium;
+    border: 1px solid rgb(206, 200, 200);
+    width: 120px;
+    margin-left: 30px;
+    margin-top: 10px;
+    height: 40px;
+
+  }
+  #div1>select {
+    width: 80px;
+    height: 30px;
+    background-color: #2874f0;
+    color: white;
+    border: none;
+    font-weight: bold;
+    font-size: medium;
+    margin-left: 30px;
+    margin-top: 14px;
+    border: none;
+  }
+
+  #navbar>p {
+    color: white;
+    font-weight: bold;
+    margin-left: 30px;
+  }
+  #icons{
+    display:flex;
+    color: white;
+  }
+#icons>i{
+  margin-left: 50px;
+  margin-top: 20px;
+ 
+}
+#icons>a{
+    text-decoration: none;
+    color: white;
+    font-weight:700;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+#navbar>span{
+    color: white;
+    margin-top: 15px;
+    font-weight:700;
+    margin-left: 60px;
+}
